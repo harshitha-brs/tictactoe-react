@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tictactoe-react/static/css/main.0865d830.css",
+    "main.js": "/tictactoe-react/static/js/main.8a895c03.js",
+    "static/js/453.1d9a75e6.chunk.js": "/tictactoe-react/static/js/453.1d9a75e6.chunk.js",
+    "static/media/logs.png": "/tictactoe-react/static/media/logs.5d4f234713d77c4a48c6.png",
+    "static/media/BG.png": "/tictactoe-react/static/media/BG.0805d1c579b3eb137695.png",
+    "static/media/X.png": "/tictactoe-react/static/media/X.4e27f145e4f22ec8b297.png",
+    "static/media/foots.png": "/tictactoe-react/static/media/foots.c21110503c705bb06d26.png",
+    "static/media/O.png": "/tictactoe-react/static/media/O.0786a58ed61030dabe08.png",
+    "index.html": "/tictactoe-react/index.html",
+    "main.0865d830.css.map": "/tictactoe-react/static/css/main.0865d830.css.map",
+    "main.8a895c03.js.map": "/tictactoe-react/static/js/main.8a895c03.js.map",
+    "453.1d9a75e6.chunk.js.map": "/tictactoe-react/static/js/453.1d9a75e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0865d830.css",
+    "static/js/main.8a895c03.js"
+  ]
+}
