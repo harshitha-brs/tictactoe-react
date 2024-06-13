@@ -12,7 +12,7 @@ const Footer = () => {
   return (
     <footer className="footer footer-dark">
       <div className="d-flex justify-content-between px-5">
-        <div>TASK DESCRIPTION WILL DISPLAY AS STORY</div>
+        <div>HAVE SOME FUN TIME BY PLAYING</div>
           <img
             src={footerImage}
             alt="logo"
